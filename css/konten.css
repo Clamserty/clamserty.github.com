@@ -8,10 +8,12 @@
     transform: translate(-50%,-50%);
 }
 .description h1 {
+    font-family:  'Comic Sans', cursive;
     font-size: 80px;
     /* margin-top: 80px; */
 }
     .description p {
+        font-family:  'Comic Sans', cursive;
     margin: 20px auto;
     font-weight: 100;
      line-height: 25px;
